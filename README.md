@@ -1,5 +1,6 @@
 # General Physics and Simulation
 This repository is for **General_Physics_and_Simulation** lecture related material and assignments personally
+I've not uploaded lecture materials due to copyright issues.  
 
 ---
 
