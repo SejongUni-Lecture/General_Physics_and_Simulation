@@ -50,4 +50,4 @@ rot_v=(G*LP_mass/LP_r)**1/2
 
 print("(4)",rot_v/1000,"km/s")
 
-Coderighs(c)2017. 손서영
+Coderights(c)2017. 손서영
