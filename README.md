@@ -21,6 +21,6 @@ All lecture related materials are based on: [K-MOOC Physics Codin' with glowscri
 
 ---
 
-### Library
+## Library
 VPython 2.7 based on WebGL  
 For more information visit: [Glowscript](https://www.glowscript.org/)
